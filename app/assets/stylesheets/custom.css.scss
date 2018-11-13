@@ -68,6 +68,11 @@ $navbar-default-bg: #3a3a3a;
     padding-bottom: 15px;
 }
 
+.listing {
+    list-style: none;
+    padding-left: 0;
+}
+
 footer {
     margin-top: 45px;
     padding-top: 5px;
@@ -92,8 +97,4 @@ footer ul {
 footer ul li {
     float: left;
     margin-left: 15 px;
-}
-
-.col-xs-4 {
-    align-items: center;
 }
